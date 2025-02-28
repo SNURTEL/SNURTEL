@@ -14,6 +14,6 @@
 </p>
 <h2 align="center"> 🚀 My projects in numbers</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SNURTEL&hide=jupyter%20notebook&theme=transparent&langs_count=6&layout=donut&text_color=dddddd&hide_border=true"  align="top"/>
-<img src="https://github-readme-stats.vercel.app/api?username=SNURTEL&theme=transparent&layout=donut&text_color=dddddd&rank_icon=github&hide_border=true&custom_title=GitHub%20Stats"  align="top"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SNURTEL&hide=jupyter%20notebook&theme=transparent&langs_count=6&layout=donut&text_color=cccccc&hide_border=true"  align="top"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SNURTEL&theme=transparent&layout=donut&text_color=cccccc&rank_icon=github&hide_border=true&custom_title=GitHub%20Stats"  align="top"/>
 </p>
