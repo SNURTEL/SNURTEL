@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" style="margin: 0 8px;" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="40" height="40" style="margin: 0 8px;" title="Bazel"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40" height="40" style="margin: 0 8px;" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="margin: 0 8px;" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" width="40" height="40" style="margin: 0 8px;" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin: 0 8px;" title="Git"/>
 </p>
 
