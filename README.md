@@ -20,18 +20,18 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opentofu.svg" width="40" height="40" style="margin: 0 8px;" title="OpenTofu"/>
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" style="margin: 0 8px;" title="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" style="margin: 0 8px;" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="40" height="40" style="margin: 0 8px;" title="Argo CD"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="40" height="40" style="margin: 0 8px;" title="Helm"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rancher-rke.svg" width="40" height="40" style="margin: 0 8px;" title="RKE2"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rancher.svg" width="40" height="40" style="margin: 0 8px;" title="Rancher"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" style="margin: 0 8px;" title="Ansible"/>
 </p>
 <p align="center">
   <img src="https://cloudnative-pg.io/images/hero_image.svg" width="40" height="40" style="margin: 0 8px;" title="CloudNativePG"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cilium.svg" width="40" height="40" style="margin: 0 8px;" title="Cilium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" width="40" height="40" style="margin: 0 8px;" title="Envoy"/>
-  <img src="https://cdn.simpleicons.org/linkerd/2BEDA0" width="40" height="40" style="margin: 0 8px;" title="Linkerd"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/istio.svg" width="40" height="40" style="margin: 0 8px;" title="Linkerd"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" width="40" height="40" style="margin: 0 8px;" title="Traefik"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" style="margin: 0 8px;" title="NGINX"/>
 </p>
